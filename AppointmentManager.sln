@@ -5,6 +5,8 @@ VisualStudioVersion = 17.12.35514.174 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppointmentManager", "AppointmentManager\AppointmentManager.csproj", "{4F334609-27EE-4256-959C-294892811F2C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppointmentAPI.Tests", "AppointmentAPI.Tests\AppointmentAPI.Tests.csproj", "{05D971AA-858E-4426-80BE-71E1BC352E54}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{4F334609-27EE-4256-959C-294892811F2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F334609-27EE-4256-959C-294892811F2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F334609-27EE-4256-959C-294892811F2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05D971AA-858E-4426-80BE-71E1BC352E54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05D971AA-858E-4426-80BE-71E1BC352E54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05D971AA-858E-4426-80BE-71E1BC352E54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05D971AA-858E-4426-80BE-71E1BC352E54}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
